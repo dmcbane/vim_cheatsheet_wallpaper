@@ -15,9 +15,9 @@
    width="1921"
    height="1083.73"
    id="svg216"
-   sodipodi:docname="vim cheatsheet.svg"
+   sodipodi:docname="vim-cheatsheet.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="C:\Users\dalem\Insync\dalemcbane@yahoo.com\OneDrive\Pictures\Wallpapers\vim_cheatsheet.png"
+   inkscape:export-filename="C:\Users\dalem\Insync\dalemcbane@yahoo.com\OneDrive\Pictures\Wallpapers\vim-cheatsheet.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,7 +51,7 @@
      guidecolor="#000000"
      guideopacity="1"
      inkscape:zoom="0.82937733"
-     inkscape:cx="752.26999"
+     inkscape:cx="746.24137"
      inkscape:cy="570.18252"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -76,7 +76,8 @@
     <sodipodi:guide
        position="175.18913,1656.5884"
        orientation="0,-1"
-       id="guide3221" />
+       id="guide3221"
+       inkscape:locked="true" />
   </sodipodi:namedview>
   <defs
      id="defs66">
